@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Culfest</string>
+    <string name="settings">Settings</string>
+
+    <string name="APP_ID">636091869863576</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="lorem_ipsum">Register for Culfest \n\nCulfest, the annual cultural fest of NIT Jamshedpur is a name to reckon with especially in the Eastern Region due to its sheer scale and magnitude. While Mother Nature warms up to welcome summer, by shunning the old and embracing the new, the students take to the fest as a cathartic and therapeutic medium to let go off their inhibitions and set the stage ablaze with their immense talent. With more than 100 events, ranging from varied genres like dramatics to literary, Fine arts to quizzing there are ample opportunities for everyone to prove their mettle. Not to forget, the interesting repertoire of pro-nites serve just right to tantalize everyone. So friends!! it\'s time to get all desi and shimmy for here comes the most exciting time of the year\n\n\n</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login</string>
+</resources>
